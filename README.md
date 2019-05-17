@@ -47,10 +47,30 @@ This is a collections of Github projects I find interesting.  That's literally t
 * [FlatBuffers](https://github.com/google/flatbuffers) : FlatBuffers is a cross platform serialization library architected for maximum memory efficiency.
 * [EntityX](https://github.com/alecthomas/entityx) : A fast, type-safe C++ Entity Component System
 * [enet](https://github.com/lsalzman/enet) : ENet reliable UDP networking library
+* [EasyLogging++](https://github.com/zuhd-org/easyloggingpp) : Single header C++ logging library.
+* [debugbreak](https://github.com/scottt/debugbreak) : allows you to put breakpoints in your C/C++ code with a call to debug_break()
+* [debug_assert](https://github.com/foonathan/debug_assert) : Simple, flexible and modular assertion macro.  Over engineered with unneeded features but the most thought out assert system I've seen.
+* [Crypto++](https://github.com/weidai11/cryptopp) : free C++ class library of cryptographic schemes.
+* [C++ PegLib](https://github.com/yhirose/cpp-peglib) : A single file C++ header-only PEG (Parsing Expression Grammars) library
+* [CivitWeb](https://github.com/civetweb/civetweb) : Embedded C/C++ web server
+* [Caddy](https://github.com/mholt/caddy) : Fast, cross-platform HTTP/2 web server with automatic HTTPS
+* [Bullet](https://github.com/bulletphysics/bullet3) : Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+* [Brotli](https://github.com/google/brotli) : generic-purpose lossless compression algorithm 
+* [Bitset2](https://github.com/ClaasBontus/bitset2) : std::bitset with constexpr implementations plus additional features.
+* [bipbuffer](https://github.com/willemt/bipbuffer) : A circular buffer alternative written in C under a BSD license.
+* [assimp](https://github.com/assimp/assimp) : Official Open Asset Import Library Repository. Loads 40+ 3D file formats into one unified and clean data structure.
+* [Argument Aggregator](https://github.com/vietjtnguyen/argagg) :  simple C++11 command line argument parser
+* [ShaderConductor](https://github.com/microsoft/ShaderConductor) :  tool designed for cross-compiling HLSL to other shading languages
+* [Scheduler](https://github.com/Bosma/Scheduler) : Modern C++ Header-Only Scheduling Library. Tasks run in thread pool.
+* [SLikeNet](https://github.com/SLikeSoft/SLikeNet) : Cross-platform network engine written in C++ and specifially designed for games.
+* [EASTL](https://github.com/electronicarts/EASTL) : EASTL stands for Electronic Arts Standard Template Library. It is a C++ template library of containers, algorithms, and iterators useful for runtime and tool development across multiple platforms.
+* [libsimdpp](https://github.com/p12tic/libsimdpp) : Portable header-only zero-overhead C++ low level SIMD library.
+* [THST](https://github.com/tuxalin/THST) : Templated hierarchical spatial trees designed for high-peformance.
+* [murmur3](https://github.com/PeterScott/murmur3) : Murmur3 is a non-cryptographic hash, designed to be fast and excellent-quality for making things like hash tables or bloom filters.
+* [msdfgen](https://github.com/Chlumsky/msdfgen) : This is a utility for generating signed distance fields from vector shapes and font glyphs, which serve as a texture representation that can be used in real-time graphics to efficiently reproduce said shapes.
+* [lru-cache](https://github.com/goldsborough/lru-cache) : A feature complete LRU cache implementation in C++.
+* [Poisson Disk Generator](https://github.com/corporateshark/poisson-disk-generator) : Poisson disk points generator in C++ in a single file
 
-* [Name](link) : 
-* [Name](link) : 
-* [Name](link) : 
 * [Name](link) : 
 * [Name](link) : 
 * [Name](link) : 
