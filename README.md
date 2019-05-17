@@ -4,6 +4,11 @@ This is a collections of Github projects I find interesting.  That's literally t
 
 [//]: # (This may be the most platform independent comment)
 
+## Other GitHub Lists
+
+* [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp/blob/master/README.md) - A collection of resources on modern C++.
+* [C++ Links](https://github.com/MattPD/cpplinks) : A categorized list of C++ resources.
+
 ## Documentation
 
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -29,6 +34,19 @@ This is a collections of Github projects I find interesting.  That's literally t
 * [stb](https://github.com/nothings/stb) : stb single-file public domain libraries for C/C++.
 * [Sole](https://github.com/r-lyeh-archived/sole) : Lightweight C++11 library to generate universally unique identificators (UUID).
 * [rpmalloc](https://github.com/rampantpixels/rpmalloc) : Public domain cross platform lock free thread caching 32-byte aligned memory allocator implemented in C. 
+* [REST client for C++](https://github.com/mrtazz/restclient-cpp) : This is a simple REST client for C++. It wraps libcurl for HTTP requests.
+* [Recast & Detour](https://github.com/recastnavigation/recastnavigation) : Navigation-mesh Toolset for Games
+* [RE2](https://github.com/google/re2) : RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+* [pybind11](https://github.com/pybind/pybind11) : Seamless operability between C++11 and Python
+* [pugixml](https://github.com/zeux/pugixml) : Light-weight, simple and fast XML parser for C++ with XPath support
+* [microprofile](https://github.com/jonasmr/microprofile) : Microprofile is a embeddable profiler in a few files
+* [Memory Allocators](https://github.com/mtrebi/memory-allocators) : Custom memory allocators in C++ to improve the performance of dynamic memory allocation
+* [DocTest](https://github.com/onqtam/doctest) : The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD
+* [OpenGL Mathematics](https://github.com/g-truc/glm) : OpenGL Mathematics (GLM) is a header only C++ mathematics library for graphics software based on the OpenGL Shading Language (GLSL) specifications.
+* [{fmt}](https://github.com/fmtlib/fmt) : an open-source formatting library for C++. It can be used as a safe and fast alternative to (s)printf and iostreams.
+* [FlatBuffers](https://github.com/google/flatbuffers) : FlatBuffers is a cross platform serialization library architected for maximum memory efficiency.
+* [EntityX](https://github.com/alecthomas/entityx) : A fast, type-safe C++ Entity Component System
+* [enet](https://github.com/lsalzman/enet) : ENet reliable UDP networking library
 
 * [Name](link) : 
 * [Name](link) : 
@@ -38,4 +56,10 @@ This is a collections of Github projects I find interesting.  That's literally t
 * [Name](link) : 
 * [Name](link) : 
 * [Name](link) : 
-* [Name](link) : 
+
+
+## Other Stuff
+
+Unfortunately, some stuff is on other sites but don't want to go around creating links on every depot site out there.  Here's the remainders.
+
+* https://hg.icculus.org/icculus/physfs
