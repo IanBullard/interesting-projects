@@ -70,16 +70,17 @@ This is a collections of Github projects I find interesting.  That's literally t
 * [msdfgen](https://github.com/Chlumsky/msdfgen) : This is a utility for generating signed distance fields from vector shapes and font glyphs, which serve as a texture representation that can be used in real-time graphics to efficiently reproduce said shapes.
 * [lru-cache](https://github.com/goldsborough/lru-cache) : A feature complete LRU cache implementation in C++.
 * [Poisson Disk Generator](https://github.com/corporateshark/poisson-disk-generator) : Poisson disk points generator in C++ in a single file
+* [rlutil](https://github.com/tapio/rlutil) : C and C++ utilities for cross-platform console roguelike game creation.
+* [cpptask](https://github.com/Kolkir/cpptask) : Lightweight approach to expressing task stealing and balanced parallelism in a C++ programs.
+* [Buddy Allocator](https://github.com/dbrobins/buddy-allocator) : This is a buddy allocator written in C++ (C++11) for use in an embedded environment.
 
-* [Name](link) : 
-* [Name](link) : 
-* [Name](link) : 
-* [Name](link) : 
-* [Name](link) : 
-
+* [SQLite ORM](https://github.com/fnc12/sqlite_orm) : SQLite ORM light header only library for modern C++.
+* [FiraCode](https://github.com/tonsky/FiraCode) : Monospaced font with programming ligatures.
+* [Pre-commit Hooks](https://github.com/pocc/pre-commit-hooks) : This is a pre-commit hooks repo that integrates C/C++ linters clang-format, clang-tidy, and oclint.
 
 ## Other Stuff
 
 Unfortunately, some stuff is on other sites but don't want to go around creating links on every depot site out there.  Here's the remainders.
 
-* https://hg.icculus.org/icculus/physfs
+* [physfs](https://hg.icculus.org/icculus/physfs) : library to provide abstract access to various archives.
+* [TinyScheme](http://tinyscheme.sourceforge.net/home.html) : a lightweight Scheme interpreter that implements as large a subset of R5RS as was possible without getting very large and complicated.
