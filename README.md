@@ -28,7 +28,7 @@ This is a collections of Github projects I find interesting.  That's literally t
   * [Plugins](https://github.com/mosra/magnum-plugins) : Asset import and conversion, text rendering and more for Magnum C++11/C++14 graphics engine.
 * [Corrade](https://github.com/mosra/corrade) : C++11/C++14 multiplatform utility library.
 * [JSON](https://github.com/nlohmann/json) : JSON for Modern C++
-* [CNL](https://github.com/johnmcfarlane/cnl) : A Compositional Numeric Library for C++
+* [CNL](https://github.com/johnmcfarlane/cnl) : A Compositional Numeric Library for C++, includes fixed point
 * [Tweeny](https://github.com/mobius3/tweeny) : Tweeny is an inbetweening library designed for the creation of complex animations for games and other beautiful interactive software.
 * [TOML](https://github.com/toml-lang/toml) : Tom's Obvious, Minimal Language.
 * [stb](https://github.com/nothings/stb) : stb single-file public domain libraries for C/C++.
