@@ -73,10 +73,19 @@ This is a collections of Github projects I find interesting.  That's literally t
 * [rlutil](https://github.com/tapio/rlutil) : C and C++ utilities for cross-platform console roguelike game creation.
 * [cpptask](https://github.com/Kolkir/cpptask) : Lightweight approach to expressing task stealing and balanced parallelism in a C++ programs.
 * [Buddy Allocator](https://github.com/dbrobins/buddy-allocator) : This is a buddy allocator written in C++ (C++11) for use in an embedded environment.
-
 * [SQLite ORM](https://github.com/fnc12/sqlite_orm) : SQLite ORM light header only library for modern C++.
 * [FiraCode](https://github.com/tonsky/FiraCode) : Monospaced font with programming ligatures.
 * [Pre-commit Hooks](https://github.com/pocc/pre-commit-hooks) : This is a pre-commit hooks repo that integrates C/C++ linters clang-format, clang-tidy, and oclint.
+* [crunch](https://github.com/BinomialLLC/crunch) : Advanced DXTc texture compression and transcoding library
+* [FasTC](https://github.com/GammaUNC/FasTC) : A fast texture compressor for various formats
+* [ozz](https://github.com/guillaumeblanc/ozz-animation/) : Open source c++ skeletal animation library and toolset
+* [big list of naughty strings](https://github.com/minimaxir/big-list-of-naughty-strings) : The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+* [r-lyeh](https://github.com/r-lyeh) : Has cool game-oriented repositories
+* [NanoGUI](https://github.com/wjakob/nanogui) : Minimalistic GUI library for OpenGL
+* [miniutf](https://github.com/dropbox/miniutf) : C++ implementation of several basic Unicode manipulation functions
+* [Unicorn Library](https://github.com/CaptainCrowbar/unicorn-lib) : Unicode library for C++
+* [Tiny Renderer](https://github.com/ssloy/tinyrenderer/wiki) : Tiny renderer or how OpenGL works: software rendering in 500 lines of code
+* []()
 
 ## Other Stuff
 
@@ -84,3 +93,6 @@ Unfortunately, some stuff is on other sites but don't want to go around creating
 
 * [physfs](https://hg.icculus.org/icculus/physfs) : library to provide abstract access to various archives.
 * [TinyScheme](http://tinyscheme.sourceforge.net/home.html) : a lightweight Scheme interpreter that implements as large a subset of R5RS as was possible without getting very large and complicated.
+* [etcpack](https://bitbucket.org/wolfpld/etcpak/src/master/) : The fastest ETC compressor on the planet
+* [ZeroBrane Studio](https://studio.zerobrane.com/) : Lightweight IDE for your Lua needs
+* [UTF-8 C++](https://sourceforge.net/projects/utfcpp/) : A simple, portable and lightweight generic library for handling UTF-8 encoded strings
