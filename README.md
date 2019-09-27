@@ -85,7 +85,7 @@ This is a collections of Github projects I find interesting.  That's literally t
 * [miniutf](https://github.com/dropbox/miniutf) : C++ implementation of several basic Unicode manipulation functions
 * [Unicorn Library](https://github.com/CaptainCrowbar/unicorn-lib) : Unicode library for C++
 * [Tiny Renderer](https://github.com/ssloy/tinyrenderer/wiki) : Tiny renderer or how OpenGL works: software rendering in 500 lines of code
-* []()
+* [hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library
 
 ## Other Stuff
 
